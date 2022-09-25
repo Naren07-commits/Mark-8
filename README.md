@@ -1,2 +1,3 @@
-# Mark-8
- I struggle with understanding the emojis. Do you too? If yes, then see this library of emojis with meaning
+# Emoji Interpreter
+
+I struggle with understanding the emojis. Do you too? If yes, then see this library of emojis with meaning
